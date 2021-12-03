@@ -22,7 +22,7 @@ void star_3(void)
     glVertex3d(85,-95,0);
     glEnd();
     //left
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_POLYGON);
     glVertex3d(-55,-40,0);
     glVertex3d(-55,20,0);
@@ -30,7 +30,7 @@ void star_3(void)
     glVertex3d(-50,-40,0);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (1,6,9);
     glBegin(GL_POLYGON);
     glVertex3d(-50,15,0);
     glVertex3d(-50,20,0);
@@ -38,7 +38,7 @@ void star_3(void)
     glVertex3d(-40,15,0);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_POLYGON);
     glVertex3d(-40,-40,0);
     glVertex3d(-40,20,0);
@@ -47,31 +47,31 @@ void star_3(void)
     glEnd();
 
     ///line///
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-48, -40);
     glVertex2f(-48, 20);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-46, -40);
     glVertex2f(-46, 20);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-44, -40);
     glVertex2f(-44, 20);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-41.7, -40);
     glVertex2f(-41.7, 20);
     glEnd();
     //left 2nd
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_POLYGON);
     glVertex3d(-25,-40,0);
     glVertex3d(-25,35,0);
@@ -80,7 +80,7 @@ void star_3(void)
     glEnd();
 
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6.9);
     glBegin(GL_POLYGON);
     glVertex3d(-20,30,0);
     glVertex3d(-20,35,0);
@@ -89,7 +89,7 @@ void star_3(void)
     glEnd();
 
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_POLYGON);
     glVertex3d(-10,-40,0);
     glVertex3d(-10,35,0);
@@ -100,31 +100,31 @@ void star_3(void)
 
     ///Line//
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-18, -40);
     glVertex2f(-18, 35);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-16, -40);
     glVertex2f(-16, 35);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-16, -40);
     glVertex2f(-16, 35);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-14, -40);
     glVertex2f(-14, 35);
     glEnd();
 
-    glColor3f (1,1,1);
+    glColor3f (.1,.6,.9);
     glBegin(GL_LINES);
     glVertex2f(-11.7, -40);
     glVertex2f(-11.7, 35);
